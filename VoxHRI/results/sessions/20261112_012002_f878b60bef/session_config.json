@@ -1,0 +1,30 @@
+{
+  "session_id": "f878b60bef",
+  "status": "complete",
+  "is_demo": false,
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "api_key": "NOT EXPORTED",
+  "temperature": 0.5,
+  "max_output_tokens": 130,
+  "history_pairs": 6,
+  "tts_rate": 165,
+  "stt_language": "en-US",
+  "microphone_enabled_at_start": true,
+  "tts_enabled": true,
+  "avatar_at_end_or_start": "nova",
+  "python_version": "3.12.2",
+  "os_platform": "win32",
+  "expected_questions": 30,
+  "successful_questions": 30,
+  "api_attempts": 30,
+  "recorded_stt_failures": 0,
+  "last_update_utc": "2026-11-12T01:40:45.427+00:00",
+  "end_reason": "completed_30",
+  "completed_at_utc": "2026-11-12T01:40:45.427+00:00",
+  "notes": [
+    "Single 30-turn dialogue, not 30 independent experimental replicates.",
+    "STT duration includes waiting/audio capture; TTS duration includes playback.",
+    "Avatar is a screen animation and does not indicate a physical robot.",
+    "Any quality scores must be assigned by human evaluators."
+  ]
+}

@@ -1,0 +1,16 @@
+VOXHRI — ONE ENGLISH SESSION WITH 30 INTERACTIONS
+
+1. Open config.py and insert your OpenRouter key in API_KEY.
+2. In PowerShell, run: py -m pip install -r requirements.txt
+3. Run: py main.py
+4. Press S to START the session. Read the 30 displayed English prompts aloud in order.
+5. After 30 successful prompts, or after pressing F to finish early,
+   find the CSV, session summary, and 10 figures under results/sessions/SESSION_NAME/.
+6. T: type a question; V: toggle microphone; 1/2/3 or Space: change avatar;
+   R: show a status report; Esc: exit safely.
+7. Test the GUI offline: py main.py --demo --no-mic --no-tts
+8. Run offline tests: py -m unittest discover -s tests -v
+
+All UI messages, prompts, CSV headers, figures, code comments, and docs are in English.
+Do not publish config.py with your key; config.py is intentionally Git-ignored.
+Never treat the simulated demo as scientific data.

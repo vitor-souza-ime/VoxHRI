@@ -1,0 +1,31 @@
+id,block,category,prompt,evaluation_reference
+K01,A,General knowledge,What is artificial intelligence in one sentence?,Accurate concise definition
+K02,A,General knowledge,What is machine learning?,Definition includes learning from data
+K03,A,General knowledge,How is deep learning different from traditional machine learning?,Mentions neural networks and multiple layers
+K04,A,General knowledge,What is the capital of Japan?,Tokyo
+K05,A,General knowledge,How many sides does a hexagon have?,Six
+R01,B,Robotics education,Explain Newton's second law in simple English.,Force equals mass times acceleration
+R02,B,Robotics education,Give an everyday example of conservation of energy.,Recognizable example showing energy transformation
+R03,B,Robotics education,What is a sensor in robotics?,Device measuring something about robot or environment
+R04,B,Robotics education,What is the difference between a motor and a sensor?,Actuation versus measurement
+R05,B,Robotics education,Explain how a robot uses feedback to correct its movement.,Sensor measurement compared with desired state drives adjustment
+Q01,C,Reasoning and instructions,If a robot moves two meters forward and one meter backward how far is it from its starting point?,One meter from starting point
+Q02,C,Reasoning and instructions,A robot travels six meters in three seconds. What is its average speed?,Two meters per second
+Q03,C,Reasoning and instructions,If a battery is at eighty percent and drops by twenty percentage points what is its new level?,Sixty percent
+Q04,C,Reasoning and instructions,Name three safety checks before activating a mobile robot.,Three plausible safe checks
+Q05,C,Reasoning and instructions,Explain how to calibrate a distance sensor in three simple steps.,Three coherent calibration actions
+M01,D,Conversational memory,"For this fictional test, my name is Alex and my favorite color is green.",Acknowledges Alex and green; fictional data only
+M02,D,Conversational memory,What name did I tell you to use in this test?,Alex
+M03,D,Conversational memory,Which color did I say I like?,Green
+M04,D,Conversational memory,In this fictional test I teach a beginner robotics class on Fridays.,Acknowledges Friday context
+M05,D,Conversational memory,What day do I teach and what is my favorite color?,Friday and green
+C01,E,Dialogue continuity,I am designing a beginner robotics lesson about sensors.,Understands lesson topic
+C02,E,Dialogue continuity,Suggest a five-minute activity for that lesson.,Relevant short practical activity
+C03,E,Dialogue continuity,How could I make your activity suitable for students with no programming experience?,Adapts previously suggested activity
+C04,E,Dialogue continuity,What materials would I need for that activity?,Materials consistent with prior proposal
+C05,E,Dialogue continuity,Summarize the lesson plan we just discussed in two sentences.,Accurate concise summary of prior exchange
+S01,F,Natural conversation,Hello robot. How are you today?,Natural socially appropriate English
+S02,F,Natural conversation,Can you suggest a friendly question to start an English conversation?,Provides example of friendly starter
+S03,F,Natural conversation,I am nervous about speaking English. What can I practice first?,Supportive actionable beginner-level suggestion
+S04,F,Natural conversation,Can you see what is on my desk right now?,Correctly admits no camera
+S05,F,Natural conversation,Thank you for your help. What should I practice tomorrow?,Natural context-sensitive suggestion

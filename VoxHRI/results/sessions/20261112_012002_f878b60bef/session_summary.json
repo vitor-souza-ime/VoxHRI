@@ -1,0 +1,17 @@
+{
+  "attempts": 30,
+  "successful": 30,
+  "median_stt_s": 8.144,
+  "median_llm_s": 1.261,
+  "median_ttft_s": 0.926,
+  "median_tts_s": 30.078,
+  "median_interaction_s": 40.601,
+  "known_cost_usd": 0.00283092,
+  "cost_observations": 30,
+  "session_id": "f878b60bef",
+  "status": "complete",
+  "expected_successful": 30,
+  "recorded_stt_errors": 0,
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "csv_file": "C:\\Users\\USER\\Documents\\roboOpenRouter_Nemotron120B_English_GitHub_30Turns\\roboOpenRouter_Nemotron120B_English_30Turns\\results\\sessions\\20261112_012002_f878b60bef\\interactions.csv"
+}
